@@ -1,0 +1,4 @@
+ filter=lfs diff=lfs merge=lfs -text
+DAC/* filter=lfs diff=lfs merge=lfs -text
+DAC/** filter=lfs diff=lfs merge=lfs -text
+proj.win32/** filter=lfs diff=lfs merge=lfs -text
