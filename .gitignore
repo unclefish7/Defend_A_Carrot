@@ -1,6 +1,6 @@
 DAC/cocos2d/
-DAC/proj.win32/.vs/
-DAC/proj.win32/Debug.win32/
+DAC/proj.win32/
+DAC/proj.win32/
 *.vcxproj
 *.filters
 c++.cpp
