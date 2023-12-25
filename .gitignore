@@ -1,6 +1,7 @@
 DAC/cocos2d/
 DAC/proj.win32/.vs/
 DAC/proj.win32/Debug.win32/
+<<<<<<< HEAD
 DAC/proj.win32/Release.win32/btn-about-normal.png
 DAC/proj.win32/Release.win32/btn-about-selected.png
 DAC/proj.win32/Release.win32/CloseNormal.png
@@ -31,3 +32,5 @@ DAC/proj.win32/Release.win32/fonts/arial.ttf
 DAC/proj.win32/Release.win32/fonts/Marker Felt.ttf
 DAC/proj.win32/Release.win32/res/.gitkeep
 DAC/proj.win32/res/tower.h
+=======
+>>>>>>> cb226194b7b77d177044ebf4387b146c0332403b
