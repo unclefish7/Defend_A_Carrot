@@ -1,6 +1,5 @@
 DAC/cocos2d/
 DAC/proj.win32/Debug.win32
 c++.cpp
-.vscode/c_cpp_properties.json
-.vscode/launch.json
-.vscode/settings.json
+DAC/proj.win32/.vs/
+.vscode/
