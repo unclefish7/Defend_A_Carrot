@@ -4,3 +4,6 @@ c++.cpp
 DAC/proj.win32/.vs/
 .vscode/
 DAC/proj.win32/Release.win32/
+android_dac/android_dac.sln
+android_dac/.vs/android_dac/v17/Browse.VC.db
+android_dac/android_dac/android_dac.vcxitems
